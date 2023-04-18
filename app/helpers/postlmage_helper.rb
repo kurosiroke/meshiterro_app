@@ -1,0 +1,2 @@
+module PostlmageHelper
+end

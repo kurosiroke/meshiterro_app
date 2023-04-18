@@ -6,5 +6,16 @@ class HomesController < ApplicationController
   def about
 
   end
+  
+  def new
+  end
+  
+  def index
+  end
+  
+  def show
+  end
+  
+  
 end
 
